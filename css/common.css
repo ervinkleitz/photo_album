@@ -41,6 +41,22 @@ div.header h2:after {
     margin-left: 0;
 }
 
+div.main-content {
+	position: absolute;
+}
+
+div.main-content .black-top {
+	height: 150px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    left: 0;
+}
+
+div.main-content .albums {
+	margin-top: 50px;
+}
+
 div.footer {
 	background-color: black;
 	height: 100px;
@@ -58,20 +74,4 @@ div.footer .author {
 	position: absolute;
 	right: 5px;
 	bottom: 5px;
-}
-
-div.main-content {
-	position: absolute;
-}
-
-div.main-content .black-top {
-	height: 150px;
-    width: 100%;
-    background-color: black;
-    position: absolute;
-    left: 0;
-}
-
-div.main-content .albums {
-	margin-top: 50px;
 }
