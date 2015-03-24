@@ -32,13 +32,13 @@ div.header h2:after {
 }
 
 div.header h2:before {
-    right: 5%;
-    margin-right: 50px;
+    right:5%;
+    margin-right: 0;
 }
 
 div.header h2:after {
     left: 5%;
-    margin-left: 50px;
+    margin-left: 0;
 }
 
 div.footer {
