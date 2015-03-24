@@ -63,3 +63,15 @@ div.footer .author {
 div.main-content {
 	position: absolute;
 }
+
+div.main-content .black-top {
+	height: 150px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    left: 0;
+}
+
+div.main-content .albums {
+	margin-top: 50px;
+}
