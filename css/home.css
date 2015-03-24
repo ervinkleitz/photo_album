@@ -7,7 +7,7 @@ div.header-image {
 }
 
 div.main-content {
-	position: absolute;
+	position: relative;
 }
 
 div.main-content .black-top {
