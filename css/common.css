@@ -5,12 +5,12 @@ body {
 
 div.header {
 	background-color: black;
-	width: 100%
 }
 
 div.header h1 {
 	font-size: 100px;
 	text-transform: uppercase;
+	font-weight: bold;
 	margin-top: 0;
 	line-height: 70px;
 	color: rgba(255,255,255,0.6);
@@ -33,33 +33,19 @@ div.header h2:after {
 }
 
 div.header h2:before {
-    right:5%;
-    margin-right: 0;
+    right:53%;
+    margin-right: 50px;
 }
 
 div.header h2:after {
-    left: 5%;
-    margin-left: 0;
+    left: 53%;
+    margin-left: 50px;
 }
 
-div.main-content {
-	position: absolute;
-}
 
-div.main-content .black-top {
-	height: 150px;
-    width: 100%;
-    background-color: black;
-    position: absolute;
-    left: 0;
-}
-
-div.main-content .albums {
-	margin-top: 50px;
-}
 
 div.footer {
-	background-color: yellow;
+	background-color: black;
 	height: 100px;
 	position: bottom;
 }
@@ -67,14 +53,14 @@ div.footer {
 div.footer .container {
 	height: 100%;
 	position: relative;
-	background:red;
 }
 
 div.footer .author {
 	color: white;
+	display: inline-block;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 18px;
-	position: absolute;
-	right: 0px;
 	bottom: 5px;
+	right: 0px;
+	position: absolute;
 }

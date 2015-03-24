@@ -1,9 +1,25 @@
-.header-image {
+div.header-image {
 	height: 0;
 	padding-bottom: 35%;
-	background-image: url("../assets/ggb_by_night.jpg");
+	background-image: url("../assets/header.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+div.main-content {
+	position: absolute;
+}
+
+div.main-content .black-top {
+	height: 150px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    left: 0;
+}
+
+div.main-content .albums {
+	margin-top: 50px;
 }
 
 div.main-content .albums .row {
