@@ -5,6 +5,7 @@ body {
 
 div.header {
 	background-color: black;
+	width: 100%
 }
 
 div.header h1 {
@@ -58,13 +59,15 @@ div.main-content .albums {
 }
 
 div.footer {
-	background-color: black;
+	background-color: yellow;
 	height: 100px;
+	position: bottom;
 }
 
 div.footer .container {
 	height: 100%;
 	position: relative;
+	background:red;
 }
 
 div.footer .author {
@@ -72,6 +75,6 @@ div.footer .author {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 18px;
 	position: absolute;
-	right: 5px;
+	right: 0px;
 	bottom: 5px;
 }
