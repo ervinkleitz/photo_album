@@ -4,7 +4,7 @@
 
         // list all the img names that you want to be albums
         var albumImages = [
-            { path: "img001.png", title: "Pier 39", url: "albums/pier39" },
+            { path: "img001.png", title: "Pier 39", url: "albums/pier39/index.html" },
             { path: "img002.png", title: "Chinatown", url: "assets/album-covers/img002.png" },
             { path: "img003.png", title: "Lombard Street", url: "assets/album-covers/img003.png" },
             { path: "img004.png", title: "Alcatraz", url: "assets/album-covers/img004.png" },
