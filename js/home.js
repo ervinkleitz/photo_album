@@ -7,11 +7,11 @@
             { path: "img001.png", title: "Fishermans Wharf", url: "albums/pier39/index.html" },
             { path: "img002.png", title: "Chinatown", url: "albums/chinatown/index.html" },
             { path: "img003.png", title: "Lombard Street", url: "albums/lombardstreet/index.html" },
-            { path: "img004.png", title: "Alcatraz", url: "assets/album-covers/img004.png" },
-            { path: "img005.png", title: "Cable Cars", url: "assets/album-covers/img005.png" },
-            { path: "img006.png", title: "Coit Tower", url: "assets/album-covers/img006.png" },
-            { path: "img007.png", title: "Twin Peaks", url: "assets/album-covers/img007.png" },
-            { path: "img008.png", title: "Golden Gate Park", url: "assets/album-covers/img008.png" }
+            { path: "img004.png", title: "Alcatraz", url: "albums/alcatraz/index.html" },
+            { path: "img005.png", title: "Cable Cars", url: "index.html" },
+            { path: "img006.png", title: "Coit Tower", url: "index.html" },
+            { path: "img007.png", title: "Twin Peaks", url: "index.html" },
+            { path: "img008.png", title: "Golden Gate Park", url: "index.html" }
             // copy/paste each `{ ... }` for as many albums as you have
             // Don't forget to have a comma after each `{ ... }` (except the last one!)
         ];
