@@ -3,7 +3,7 @@ div.header-image {
 	padding-bottom: 35%;
 	background-image: url("../assets/header.jpg");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100%;
 }
 
 div.main-content {
