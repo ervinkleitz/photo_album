@@ -2,7 +2,6 @@
 
         var ROOT_ALBUM_DIR = 'assets/album-covers';
 
-        // list all the img names that you want to be albums
         var albumImages = [
             { path: "img001.png", title: "Fishermans Wharf", url: "albums/pier39/index.html" },
             { path: "img002.png", title: "Chinatown", url: "albums/chinatown/index.html" },
@@ -12,8 +11,7 @@
             { path: "img006.png", title: "Coit Tower", url: "albums/coittower/index.html" },
             { path: "img007.png", title: "Twin Peaks", url: "albums/twinpeaks/index.html" },
             { path: "img008.png", title: "Golden Gate Park", url: "albums/goldengatepark/index.html" }
-            // copy/paste each `{ ... }` for as many albums as you have
-            // Don't forget to have a comma after each `{ ... }` (except the last one!)
+
         ];
 
         // This following code is run when the page is loaded
